@@ -8,7 +8,7 @@ NastyTweeter is an application that automates a Twitter account to reply to ment
 
 This application is under development and not ready to deploy at the moment and will be slowly edging towards an official release.
 
-[![nastytweet.png](https://s28.postimg.org/fo767ns19/nastytweet.png)](https://postimg.org/image/xr08yvnvt/)
+[![nastytweet.png](https://s28.postimg.org/fo767ns19/nastytweet.png)]
 
 Getting started
 ---------------
